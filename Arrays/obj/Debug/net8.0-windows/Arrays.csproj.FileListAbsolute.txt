@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Arrays\obj\Debug\net8.0-windows\Arrays.Arrays.resources
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Arrays\obj\Debug\net8.0-windows\Arrays.csproj.GenerateResource.cache
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Arrays\obj\Debug\net8.0-windows\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfo.cs
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Arrays\obj\Debug\net8.0-windows\Arrays.csproj.CoreCompileInputs.cache
