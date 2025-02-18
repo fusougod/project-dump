@@ -12,3 +12,17 @@ C:\Users\Admin\source\repos\ililipat sa winforms\ililipat sa winforms\obj\Debug\
 C:\Users\Admin\source\repos\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ililipat sa winforms.pdb
 C:\Users\Admin\source\repos\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ililipat sa winforms.genruntimeconfig.cache
 C:\Users\Admin\source\repos\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ref\ililipat sa winforms.dll
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\bin\Debug\net8.0\ililipat sa winforms.exe
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\bin\Debug\net8.0\ililipat sa winforms.deps.json
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\bin\Debug\net8.0\ililipat sa winforms.runtimeconfig.json
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\bin\Debug\net8.0\ililipat sa winforms.dll
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\bin\Debug\net8.0\ililipat sa winforms.pdb
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ililipat sa winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ililipat sa winforms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ililipat sa winforms.AssemblyInfo.cs
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ililipat sa winforms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ililipat sa winforms.dll
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\refint\ililipat sa winforms.dll
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ililipat sa winforms.pdb
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ililipat sa winforms.genruntimeconfig.cache
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\ililipat sa winforms\obj\Debug\net8.0\ref\ililipat sa winforms.dll

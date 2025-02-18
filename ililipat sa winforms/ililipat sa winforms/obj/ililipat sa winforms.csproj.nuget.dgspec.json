@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ililipat sa winforms\\ililipat sa winforms\\ililipat sa winforms.csproj": {}
+    "C:\\Users\\user\\Desktop\\kuya ojt\\project-dump-main\\project-dump-main\\ililipat sa winforms\\ililipat sa winforms\\ililipat sa winforms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ililipat sa winforms\\ililipat sa winforms\\ililipat sa winforms.csproj": {
+    "C:\\Users\\user\\Desktop\\kuya ojt\\project-dump-main\\project-dump-main\\ililipat sa winforms\\ililipat sa winforms\\ililipat sa winforms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ililipat sa winforms\\ililipat sa winforms\\ililipat sa winforms.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\kuya ojt\\project-dump-main\\project-dump-main\\ililipat sa winforms\\ililipat sa winforms\\ililipat sa winforms.csproj",
         "projectName": "ililipat sa winforms",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ililipat sa winforms\\ililipat sa winforms\\ililipat sa winforms.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ililipat sa winforms\\ililipat sa winforms\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\kuya ojt\\project-dump-main\\project-dump-main\\ililipat sa winforms\\ililipat sa winforms\\ililipat sa winforms.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\kuya ojt\\project-dump-main\\project-dump-main\\ililipat sa winforms\\ililipat sa winforms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {

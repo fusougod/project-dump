@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\bin\Debug\net8.0-windows\Stacks n Queues.exe
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\bin\Debug\net8.0-windows\Stacks n Queues.deps.json
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\bin\Debug\net8.0-windows\Stacks n Queues.runtimeconfig.json
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\bin\Debug\net8.0-windows\Stacks n Queues.dll
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\bin\Debug\net8.0-windows\Stacks n Queues.pdb
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\Stacks_n_Queues.StacksnQueues.resources
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\Stacks n Queues.csproj.GenerateResource.cache
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\Stacks n Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\Stacks n Queues.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\Stacks n Queues.AssemblyInfo.cs
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\Stacks n Queues.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\Stacks n Queues.dll
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\refint\Stacks n Queues.dll
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\Stacks n Queues.pdb
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\Stacks n Queues.genruntimeconfig.cache
+C:\Users\user\Desktop\kuya ojt\project-dump-main\project-dump-main\ililipat sa winforms\Stacks n Queues\obj\Debug\net8.0-windows\ref\Stacks n Queues.dll
