@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\bin\Debug\net8.0\arrays lamaw.exe
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\bin\Debug\net8.0\arrays lamaw.deps.json
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\bin\Debug\net8.0\arrays lamaw.runtimeconfig.json
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\bin\Debug\net8.0\arrays lamaw.dll
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\bin\Debug\net8.0\arrays lamaw.pdb
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\obj\Debug\net8.0\arrays lamaw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\obj\Debug\net8.0\arrays lamaw.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\obj\Debug\net8.0\arrays lamaw.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\obj\Debug\net8.0\arrays lamaw.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\obj\Debug\net8.0\arrays lamaw.dll
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\obj\Debug\net8.0\refint\arrays lamaw.dll
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\obj\Debug\net8.0\arrays lamaw.pdb
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\obj\Debug\net8.0\arrays lamaw.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ililipat sa winforms\arrays lamaw\obj\Debug\net8.0\ref\arrays lamaw.dll
